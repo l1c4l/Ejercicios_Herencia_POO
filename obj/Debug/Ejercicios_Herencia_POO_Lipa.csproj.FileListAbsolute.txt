@@ -1,0 +1,6 @@
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\bin\Debug\Ejercicios_Herencia_POO_Lipa.exe.config
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\bin\Debug\Ejercicios_Herencia_POO_Lipa.exe
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\bin\Debug\Ejercicios_Herencia_POO_Lipa.pdb
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\obj\Debug\Ejercicios_Herencia_POO_Lipa.csprojAssemblyReference.cache
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\obj\Debug\Ejercicios_Herencia_POO_Lipa.exe
+C:\Users\AbrahamLIPACALABILLA\source\repos\Ejercicios_Herencia_POO_Lipa\obj\Debug\Ejercicios_Herencia_POO_Lipa.pdb
